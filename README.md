@@ -1,2 +1,2 @@
 # Curr-culo-na-Web
-Ciando meu currículo na web
+Criando meu currículo na web
